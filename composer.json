@@ -1,0 +1,26 @@
+{
+  "name": "zhuyl/aliyuntoken",
+  "description": "A simple access to Ali Cloud interface token",
+  "authors": [
+    {
+      "name": "zhuyl369",
+      "email": "zhuyl369@qq.com",
+      "homepage": "https://www.blesslin.com",
+      "role": "Developer"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.x-dev"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "zhuyl\\": "src/"
+    }
+  }
+}
